@@ -51,4 +51,4 @@ I'll delve deeper into using rem and em.
 
 ## Author
 
-- Frontend Mentor - [@NiloyDas07)](https://www.frontendmentor.io/profile/NiloyDas07)
+- Frontend Mentor - [@NiloyDas07](https://www.frontendmentor.io/profile/NiloyDas07)
